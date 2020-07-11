@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Image de test](https://cdn.discordapp.com/attachments/455791465734602782/731558076238397440/MusicHoursNuit.jpg)
 
 <!--
