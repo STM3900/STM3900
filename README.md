@@ -1,4 +1,4 @@
-![Image de test](https://cdn.discordapp.com/attachments/455791465734602782/731558076238397440/MusicHoursNuit.jpg)
+
 
 <!--
 **STM3900/STM3900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
